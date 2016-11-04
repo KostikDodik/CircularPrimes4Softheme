@@ -1,0 +1,6 @@
+E:\SMRTNKY\Прожки\CircularPrime\CircularPrime\bin\Debug\CircularPrime.exe.config
+E:\SMRTNKY\Прожки\CircularPrime\CircularPrime\bin\Debug\CircularPrime.exe
+E:\SMRTNKY\Прожки\CircularPrime\CircularPrime\bin\Debug\CircularPrime.pdb
+E:\SMRTNKY\Прожки\CircularPrime\CircularPrime\obj\Debug\CircularPrime.csprojResolveAssemblyReference.cache
+E:\SMRTNKY\Прожки\CircularPrime\CircularPrime\obj\Debug\CircularPrime.exe
+E:\SMRTNKY\Прожки\CircularPrime\CircularPrime\obj\Debug\CircularPrime.pdb
